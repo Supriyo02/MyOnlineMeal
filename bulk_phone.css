@@ -1,0 +1,44 @@
+.menus{
+	flex-direction: column;
+}
+#home{
+	height: 550px;
+}
+#home::before{
+	height: 860px;
+}
+#home h1{
+	font-size: 2.5rem;
+}
+#ipt{
+	font-size: 1.2rem;
+	width: 90%;
+}
+#ltl{
+	width: 75%;
+}
+
+#menu-box::before{
+	height: 1948px;
+}
+#menu-box h1{
+	font-size: 2.5rem;
+}
+.box{
+	margin: 15px 15px;
+	padding: 10px;
+}
+.box img{
+	height: 180px;
+	border-radius: 20px;
+}
+
+#contact{
+	padding: 0px 8px;
+}
+#contact::before{
+	height: 350px;
+}
+#contact h1{
+	font-size: 2rem;
+}
