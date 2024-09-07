@@ -11,12 +11,12 @@ Wait for a moment after clicking the link (it may take some time to load as it i
 ## Installation:
 ### 1.Clone the repository:
 ```bash
-git clone https://github.com/Supriyo02/Insignia.23.git
+git clone https://github.com/Supriyo02/MyOnlineMeal.git
 ```
 
 ### 2.Open the index.html file:
 ```bash
-cd Insignia.23
+cd MyOnlineMeal
 open index.html
 ```
 
